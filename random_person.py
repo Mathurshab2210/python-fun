@@ -19,6 +19,6 @@ while not end:
         print(f'{list1[q]} will give party today')
         end=True
        
-    
+  #random person selection on the basis of a threshold deciding value
     
      
